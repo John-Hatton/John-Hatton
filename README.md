@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @John-Hatton
+- 👋 Hi, I’m John Hatton
 - 👀 I’m interested in Computer Science, Machine Learning, Quantum Computing
 - 🌱 I’m currently learning Java and Software Development
 - 💞️ I’m looking to collaborate on something new.
