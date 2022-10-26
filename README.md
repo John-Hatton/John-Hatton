@@ -2,8 +2,17 @@
 
 <h3 align="center">A Computer Science Student at Indiana University Southeast</h3>
 
+<br />
+
+<!-- Cool Devel Image -->
+<!-- Working GIF -->
+<img src="https://github.com/John-Hatton/John-Hatton/blob/main/assets/images/John_Hatton_devel.png" alt="dev_object" align="right" />
+
+<br />
+<br />
 
 - ✌️ Hi, I’m John Hatton
+- 🏞️ I live near Louisville, Kentucky, USA   
 - 🔬 I’m interested in Assembly Language, Machine Learning, Quantum Computing
 - 📈 I’m currently learning x86_64 Assembly and Computer Architecture
 - 🚀 I’m looking to collaborate on something new.
@@ -23,16 +32,11 @@
   <img align="left" alt="SoloLearn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" />
 </a>
 
-<br />
-<br />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=John-Hatton&show_icons=true" alt="John-Hatton" />
 
-<!-- Cool Devel Image -->
-![Devel_Image](assets/images/developer.png)
+</p>
 
-
-
-
-[![John-Hatton's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Hatton)](https://github.com/John-Hatton/github-readme-stats)
 
 
 <!---
