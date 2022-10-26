@@ -9,6 +9,8 @@
 </a>
 
 
+**![John-Hatton's Github stats](https://github-readme-stats.vercel.app/api?username=John-Hatton&show_icons=true&hide_border=true)**
+
 
 <!---
 John-Hatton/John-Hatton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
