@@ -1,21 +1,22 @@
 <h1 align="center">👋 Welcome to My Github Account</h1>
 
-<h3 align="center">A Computer Science Student at Indiana University Southeast</h3>
 
-<br />
+<h3 align="left">A Computer Science Student at Indiana University Southeast</h3>
+
+
 
 <!-- Cool Devel Image -->
 <!-- Working GIF -->
 <img src="https://github.com/John-Hatton/John-Hatton/blob/main/assets/images/John_Hatton_devel.png" alt="dev_object" align="right" />
 
 <br />
-<br />
 
 - ✌️ Hi, I’m John Hatton
 - 🏞️ I live near Louisville, Kentucky, USA   
 - 🔬 I’m interested in Assembly Language, Machine Learning, Quantum Computing
 - 📈 I’m currently learning x86_64 Assembly and Computer Architecture
-- 🚀 I’m looking to collaborate on something new.
+- 🚀 I’m looking to collaborate on something new
+- 🇨🇭 Ich spreche doch fließend Deutsch
 
 
 <a href="john.hatton@web.de">
