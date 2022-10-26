@@ -16,7 +16,7 @@
 - 🔬 I’m interested in Assembly Language, Machine Learning, Quantum Computing
 - 📈 I’m currently learning x86_64 Assembly and Computer Architecture
 - 🚀 I’m looking to collaborate on something new
-- 🇨🇭 Ich spreche doch fließend Deutsch
+- 🇩🇪 Ich kann doch fließend Deutsch
 
 
 <a href="john.hatton@web.de">
