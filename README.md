@@ -17,7 +17,7 @@
 - 📈 I’m currently learning x86_64 Assembly and Computer Architecture
 - 🚀 I’m looking to collaborate on something new
 - 🇩🇪 Ich kann doch fließend Deutsch
-
+ <br />
 
 <a href="john.hatton@web.de">
   <img align="left" alt="Web-De" width="22px" src="https://cdn.icon-icons.com/icons2/699/PNG/512/webde_icon-icons.com_61620.png" />
