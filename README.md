@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to My Github Account</h1>
 
 
-<h3 align="left">A Computer Science Student at Indiana University Southeast</h3>
+<h3 align="center">A Computer Science Student at Indiana University Southeast</h3>
 
 
 
@@ -19,19 +19,21 @@
 - 🇩🇪 Ich kann doch fließend Deutsch
  <br />
 
-<a href="john.hatton@web.de">
-  <img align="left" alt="Web-De" width="22px" src="https://cdn.icon-icons.com/icons2/699/PNG/512/webde_icon-icons.com_61620.png" />
-</a>
-<a href="https://www.linkedin.com/in/john-d-hatton/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
-</a>
-<a href="https://www.sololearn.com/profile/12548172">
-  <img align="left" alt="SoloLearn" width="22px" src="https://blob.sololearn.com/avatars/sololearn.png" />
-</a>
-</a>
-<a href="https://leetcode.com/taschenr3chner/">
-  <img align="left" alt="SoloLearn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" />
-</a>
+ <a href="john.hatton@web.de" style="display:block;padding:100px">
+   <img align="left" alt="Web-De" width="22px" src="https://cdn.icon-icons.com/icons2/699/PNG/512/webde_icon-icons.com_61620.png" />
+ </a>
+ <a href="https://www.linkedin.com/in/john-d-hatton/">
+   <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+ </a>
+ <a href="https://www.sololearn.com/profile/12548172">
+   <img align="left" alt="SoloLearn" width="22px" src="https://blob.sololearn.com/avatars/sololearn.png" />
+ </a>
+ </a>
+ <a href="https://leetcode.com/taschenr3chner/">
+   <img align="left" alt="SoloLearn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" />
+ </a>
+
+
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=John-Hatton&show_icons=true" alt="John-Hatton" />
