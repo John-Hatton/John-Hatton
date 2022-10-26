@@ -8,8 +8,7 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 
-
-**![John-Hatton's Github stats](https://github-readme-stats.vercel.app/api?username=John-Hatton&show_icons=true&hide_border=true)**
+[![John-Hatton's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Hatton)](https://github.com/John-Hatton/github-readme-stats)
 
 
 <!---
