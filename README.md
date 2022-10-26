@@ -23,13 +23,14 @@
   <img align="left" alt="SoloLearn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" />
 </a>
 
-
-
-
-
-
 <br />
 <br />
+
+<!-- Cool Devel Image -->
+![Devel_Image](assets/images/developer.png)
+
+
+
 
 [![John-Hatton's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Hatton)](https://github.com/John-Hatton/github-readme-stats)
 
