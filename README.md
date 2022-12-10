@@ -7,7 +7,7 @@
 
 <!-- Cool Devel Image -->
 <!-- Working GIF -->
-<img src="https://github.com/John-Hatton/John-Hatton/blob/main/assets/images/John_Hatton_devel.png" alt="dev_object" align="right" />
+<img src="https://github.com/John-Hatton/John-Hatton/blob/main/assets/images/John_Hatton.png" alt="dev_object" align="right" />
 
 <br />
 
