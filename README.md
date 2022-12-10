@@ -33,9 +33,14 @@
    <img align="left" alt="SoloLearn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" />
  </a>
 
+<br />
+<br />
+~Random Info: Instruction Level Parallelism (ILP) is used to refer to the architecture in which multiple operations can be performed parallelly in a particular process, with its own set of resources – address space, registers, identifiers, state, program counters. It refers to the compiler design techniques and processors designed to execute operations, like memory load and store, integer addition, float multiplication, in parallel to improve the performance of the processors. <a href="https://www.geeksforgeeks.org/instruction-level-parallelism/">Geeks for Geeks - ILP</a> 
 
+<br />
+<br />
 
-<p align="left">
+<p align="middle">
 <img src="https://github-readme-stats.vercel.app/api?username=John-Hatton&show_icons=true" alt="John-Hatton" />
 
 </p>
