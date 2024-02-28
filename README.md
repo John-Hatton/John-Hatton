@@ -12,7 +12,7 @@
 <br />
 
 - ✌️ Hi, I’m John Hatton
-- 🏞️ I live near Louisville, Kentucky, USA   
+- 🏞️ I live in Berlin, Germany 
 - 🔬 I’m interested in Assembly Language, Machine Learning, Quantum Computing
 - 📈 I’m currently learning x86_64 Assembly and Computer Architecture
 - 🚀 I’m looking to collaborate on something new
